@@ -1,0 +1,4 @@
+add-env/*
+db.sqlite3
+.idea/*
+.git/*

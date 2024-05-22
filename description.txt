@@ -1,0 +1,2 @@
+simple django api that accept a json POST requests and returns the result.
+The application is dockerize.
